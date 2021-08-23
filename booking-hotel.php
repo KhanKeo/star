@@ -52,7 +52,7 @@ else{
 					<div class="col-sm-12">
 						<h1 class="page-title">Tour đã đặt</h1>
 						<ul class="breadcrumb">
-							<li><a href="index.php">Home</a></li>
+							<li><a href="index.php">index</a></li>
 							<li class="active">Tour đã đặt</li>
 						</ul>
 					</div>
