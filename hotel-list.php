@@ -48,7 +48,7 @@ include('includes/config.php');
 				<div class="col-sm-12" >
 					<h1 class="page-title">Danh sách khách sạn</h1>
 					<ul class="breadcrumb">
-						<li><a href="#">Trang chủ</a></li>
+						<li><a href="#">Index</a></li>
 						<li class="active">Tìm kiếm</li>
 					</ul>
 				</div>
