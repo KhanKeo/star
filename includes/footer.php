@@ -7,9 +7,9 @@
                 <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 footer-widget ftr-contact">
                     <h3 class="footer-heading">Liên hệ</h3>
                     <ul class="list-unstyled">
-                       <li><span><i class="fa fa-map-marker"></i></span>182 Lê Duẩn, TP.Vinh, Nghệ An</li>
-                       <li><span><i class="fa fa-phone"></i></span>0238 3556 383</li>
-                       <li><span><i class="fa fa-envelope"></i></span>Daihocvinh@vinhuni.edu.vn</li>
+                       <li><span><i class="fa fa-map-marker"></i></span>306 duy tân, tp Kontum</li>
+                       <li><span><i class="fa fa-phone"></i></span>0915822429</li>
+                       <li><span><i class="fa fa-envelope"></i></span>khankeo99920162gmail.co</li>
                    </ul>
                </div><!-- end columns -->
 

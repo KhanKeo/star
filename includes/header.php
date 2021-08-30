@@ -55,8 +55,8 @@
                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                     <div id="info">
                         <ul class="list-unstyled list-inline">
-                            <li><span><i class="fa fa-map-marker"></i></span>182 TP.Vinh, Nghệ An</li>
-                            <li><span><i class="fa fa-phone"></i></span>028 3385 5452</li>
+                            <li><span><i class="fa fa-map-marker"></i></span>306 Duy tân, tp Kontum</li>
+                            <li><span><i class="fa fa-phone"></i></span>0915822429</li>
                             <li><a  style="font-size: 15px; margin-left: 10px; color: white;" href="enquiry.php"><i class="glyphicon glyphicon-envelope"></i>  Góp ý</a></li>
                         </ul>
                     </div>
